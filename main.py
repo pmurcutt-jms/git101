@@ -5,3 +5,4 @@ with open("json_data.json", "r") as file:
 
 print(new_user_dict)
 
+print("FINISHED!!!")
